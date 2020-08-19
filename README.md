@@ -1,6 +1,6 @@
 Whenever we declare a vector like:
 
- 1- vector<int> v; 
+          1- vector<int> v; 
 Here, we do not specify the size of our vector.
  Whenever we just want to add an element we just 
 push it into the vector using the  v.push _ back
@@ -28,7 +28,7 @@ use the push _ back()  function to add elements.
 
 Now, coming to
 
-3-vector<int> v[N]; 
+       3-vector<int> v[N]; 
 It creates a static array of N vectors of the 
 first type i.e.  v[0]  is now a whole new and 
 different vector than v[1] which is totally 
